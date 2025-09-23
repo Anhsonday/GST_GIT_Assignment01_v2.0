@@ -11,3 +11,4 @@ function plus() {
   let result = a + b;
   document.getElementById("result").innerText = "Kết quả cộng: " + result;
 }
+// test rebase
